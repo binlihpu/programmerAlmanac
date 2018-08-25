@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "够浪程序员老黄历",
+    "navigationBarTextStyle":"black",
+    "disableScroll":true
+  },
+  "debug":true
+}
